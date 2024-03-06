@@ -1,4 +1,4 @@
-# Entertainment Hub
+# CinePlex Explorer
 <table>
 <tr>
 <td>
