@@ -7,6 +7,5 @@
 </tr>
 </table>
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
-
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+![MOVIE APP](![image](https://github.com/rajanarahul93/CineFlex-Explorer/assets/123227543/77b5a190-e067-47d0-b966-e2889edd9413)
+)
